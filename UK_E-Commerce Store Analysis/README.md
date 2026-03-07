@@ -115,7 +115,7 @@ Project Structure
 project-folder/
 │
 ├── data/
-│   └── ecommerce_dataset.csv
+│   └── various data files
 │
 ├── notebooks/
 │   └── analysis.ipynb
