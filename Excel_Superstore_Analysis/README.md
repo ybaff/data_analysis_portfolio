@@ -24,5 +24,7 @@ Copiers have the highest value to the business, as seen as having a very high pr
 # Tools
 
 Excel
+
 Pivot Tables
+
 Charts
