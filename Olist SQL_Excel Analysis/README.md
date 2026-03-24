@@ -9,9 +9,9 @@ Analysis of 100,000+ orders from a Brazilian marketplace (2016-2018).
 - Delivered actionable recommendations
 
 ## Key Findings
-- **Only 5.6% of customers made a second purchase** — major retention opportunity
-- **Health/beauty** accounts for 9.2% of total profit
-- **Monday 10am-4pm** are peak hours for purchases
+- Only 5.6% of customers made a second purchase — major retention opportunity
+- Health/beauty accounts for 9.2% of total profit
+- Monday 10am-4pm are peak hours for purchases
 - **November (Black Friday)** shows significant sales spike
 
 ## Recommendations
@@ -29,3 +29,6 @@ Analysis of 100,000+ orders from a Brazilian marketplace (2016-2018).
 ## Tools Used
 - PostgreSQL
 - Excel (validation/charts)
+
+## Dashboard Link
+Link: https://lookerstudio.google.com/reporting/62dc59b6-4dfb-4a01-848e-e4ab55bcc328
