@@ -13,16 +13,16 @@ I specialise in identifying **hidden revenue leaks** and **customer churn patter
 ---
 
 ## Tech Stack & Skills
-* **Languages:** Python (Pandas, NumPy), SQL (PostgreSQL, BigQuery)
+* **Languages:** Python (Pandas, Matplotlib, Seaborn), SQL (PostgreSQL,)
 * **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 * **Analysis Frameworks:** * **Cohort Analysis:** Tracking user behavior over time.
     * **RFM Modeling:** Segmenting customers by Recency, Frequency, and Monetary value.
-    * **Predictive Churn:** Identifying at-risk customers before they leave.
+    * **Predictive Churn:** Identifying at risk customers before they leave.
 
 ---
 
 ## What I Can Do For Your Business
-* **Identify Revenue Leaks:** Find exactly where customers are dropping off in the funnel.
+* **Identify Revenue Leaks:** Find exactly where customers are dropping off in the funnel, preventing them from purchasing products.
 * **Segment Your Customers:** Separate "Whales" from your one-time buyers to optimize marketing spend.
 * **Automated Reporting:** Build real time dashboards so you can monitor your KPIs without manual exports.
 
@@ -33,6 +33,3 @@ I’m open to discussing data driven growth or new project opportunities.
 
 * **LinkedIn:** [Yaw Baffoe](www.linkedin.com/in/yaw-opoku-mensah-baffoe)
 * **Email Address:** yaw.m.baffoe@gmail.com
-
----
-*“In God we trust, all others must bring data.” – W. Edwards Deming*
