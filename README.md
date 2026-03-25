@@ -12,7 +12,7 @@ I specialise in identifying **hidden revenue leaks** and **customer churn patter
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 * **Languages:** Python (Pandas, NumPy), SQL (PostgreSQL, BigQuery)
 * **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 * **Analysis Frameworks:** * **Cohort Analysis:** Tracking user behavior over time.
