@@ -1,0 +1,301 @@
+Order_ID,Timestamp,Item_Name,Quantity,Price_Paid,Source,Estimated_Profit
+DLV-5073,2026-05-15 11:40:00,sweet potato fries,2,8.0,Deliveroo,6.0
+DLV-5340,2026-04-24 14:02:00,vegan burger,1,9.0,Deliveroo,6.75
+DLV-8548,2026-05-17 20:20:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-6377,2026-04-26 17:01:00,sweet potato fries,1,4.0,Deliveroo,3.0
+DLV-6586,2026-04-24 18:35:00,chocolate milkshake,2,9.0,Deliveroo,6.75
+DLV-5713,2026-04-25 23:16:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-6807,2026-05-15 18:12:00,vegan burger,2,18.0,Deliveroo,13.5
+DLV-7163,2026-05-10 20:45:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-8713,2026-05-19 15:53:00,vegan burger,2,18.0,Deliveroo,13.5
+DLV-5947,2026-04-30 13:40:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-8158,2026-05-20 18:31:00,gourmet burger,1,8.5,Deliveroo,6.375
+DLV-5239,2026-04-26 23:06:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-7486,2026-05-13 17:03:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-6039,2026-05-15 20:43:00,soft drink,1,2.5,Deliveroo,1.875
+DLV-5493,2026-05-04 21:59:00,gourmet burger,2,17.0,Deliveroo,12.75
+DLV-6958,2026-04-24 12:14:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-7445,2026-05-09 11:22:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-8135,2026-05-10 19:54:00,chocolate milkshake,2,9.0,Deliveroo,6.75
+DLV-6685,2026-05-22 15:53:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-6345,2026-05-05 11:26:00,regular fries,1,3.0,Deliveroo,2.25
+DLV-7172,2026-05-01 23:04:00,sweet potato fries,2,8.0,Deliveroo,6.0
+DLV-5571,2026-05-04 18:34:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-6600,2026-05-03 11:17:00,gourmet burger,2,17.0,Deliveroo,12.75
+DLV-7508,2026-05-15 23:28:00,vegan burger,1,9.0,Deliveroo,6.75
+DLV-8437,2026-05-08 16:52:00,sweet potato fries,2,8.0,Deliveroo,6.0
+DLV-8376,2026-05-04 14:11:00,vegan burger,2,18.0,Deliveroo,13.5
+DLV-6375,2026-05-10 14:31:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-7970,2026-05-17 13:53:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-7865,2026-05-13 23:54:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-8739,2026-05-03 23:41:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-6427,2026-05-15 23:23:00,soft drink,1,2.5,Deliveroo,1.875
+DLV-7828,2026-05-22 13:33:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-8754,2026-05-13 15:19:00,sweet potato fries,1,4.0,Deliveroo,3.0
+DLV-5651,2026-05-16 18:51:00,sweet potato fries,2,8.0,Deliveroo,6.0
+DLV-6306,2026-05-19 14:03:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-7792,2026-04-29 11:43:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-6513,2026-05-17 21:25:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-8030,2026-04-28 20:17:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-7153,2026-04-29 22:30:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-7468,2026-05-10 13:54:00,regular fries,1,3.0,Deliveroo,2.25
+DLV-6145,2026-05-13 15:12:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-5019,2026-05-20 14:52:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-5316,2026-05-10 15:29:00,regular fries,1,3.0,Deliveroo,2.25
+DLV-6349,2026-04-24 23:34:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-5951,2026-05-13 23:10:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-8119,2026-05-06 23:43:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-6398,2026-05-13 18:49:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-6332,2026-05-05 18:21:00,soft drink,1,2.5,Deliveroo,1.875
+DLV-8844,2026-05-21 14:35:00,regular fries,1,3.0,Deliveroo,2.25
+DLV-5667,2026-05-20 22:10:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-7227,2026-05-14 17:29:00,gourmet burger,2,17.0,Deliveroo,12.75
+DLV-8408,2026-05-01 17:58:00,sweet potato fries,2,8.0,Deliveroo,6.0
+DLV-5705,2026-04-23 15:48:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-7397,2026-05-13 16:55:00,soft drink,1,2.5,Deliveroo,1.875
+DLV-6903,2026-05-16 11:06:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-7914,2026-04-30 13:41:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-7289,2026-05-04 21:00:00,vegan burger,1,9.0,Deliveroo,6.75
+DLV-8125,2026-04-23 17:12:00,vegan burger,1,9.0,Deliveroo,6.75
+DLV-8638,2026-05-01 12:18:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-7834,2026-04-26 14:45:00,regular fries,1,3.0,Deliveroo,2.25
+DLV-7069,2026-05-06 11:41:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-7930,2026-05-22 17:23:00,vegan burger,2,18.0,Deliveroo,13.5
+DLV-8638,2026-05-08 23:18:00,chocolate milkshake,2,9.0,Deliveroo,6.75
+DLV-7485,2026-05-06 21:02:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-7125,2026-05-18 18:05:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-6676,2026-05-20 18:38:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-8896,2026-05-07 14:15:00,sweet potato fries,2,8.0,Deliveroo,6.0
+DLV-8895,2026-05-03 20:56:00,vegan burger,1,9.0,Deliveroo,6.75
+DLV-8815,2026-05-22 17:46:00,gourmet burger,1,8.5,Deliveroo,6.375
+DLV-6155,2026-05-19 13:46:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-5698,2026-05-16 23:36:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-5309,2026-05-03 14:41:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-8744,2026-05-19 13:30:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-5701,2026-05-12 21:44:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-8875,2026-05-08 22:20:00,regular fries,1,3.0,Deliveroo,2.25
+DLV-5559,2026-04-22 17:26:00,gourmet burger,2,17.0,Deliveroo,12.75
+DLV-6149,2026-05-14 12:41:00,regular fries,1,3.0,Deliveroo,2.25
+DLV-7837,2026-05-02 19:46:00,gourmet burger,2,17.0,Deliveroo,12.75
+DLV-6938,2026-04-24 14:20:00,vegan burger,1,9.0,Deliveroo,6.75
+DLV-6425,2026-05-16 17:50:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-7413,2026-05-21 19:02:00,soft drink,1,2.5,Deliveroo,1.875
+DLV-8474,2026-05-12 22:41:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-8864,2026-05-14 17:19:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-6435,2026-04-22 17:46:00,chocolate milkshake,2,9.0,Deliveroo,6.75
+DLV-8596,2026-04-30 12:56:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-8735,2026-05-13 14:02:00,cheeseburger,1,9.5,Deliveroo,7.125
+DLV-5946,2026-05-11 11:40:00,vegan burger,2,18.0,Deliveroo,13.5
+DLV-5399,2026-04-22 16:37:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-8117,2026-05-08 15:07:00,soft drink,2,5.0,Deliveroo,3.75
+DLV-6334,2026-04-22 17:24:00,sweet potato fries,1,4.0,Deliveroo,3.0
+DLV-6060,2026-04-24 11:27:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-7397,2026-05-03 11:05:00,sweet potato fries,2,8.0,Deliveroo,6.0
+DLV-8219,2026-05-10 23:26:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-7166,2026-04-25 18:49:00,vegan burger,1,9.0,Deliveroo,6.75
+DLV-6530,2026-05-05 17:28:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-8280,2026-05-19 23:10:00,gourmet burger,1,8.5,Deliveroo,6.375
+DLV-6814,2026-05-14 22:51:00,chocolate milkshake,1,4.5,Deliveroo,3.375
+DLV-7046,2026-05-16 20:01:00,regular fries,2,6.0,Deliveroo,4.5
+DLV-7030,2026-05-22 15:47:00,cheeseburger,2,19.0,Deliveroo,14.25
+DLV-5146,2026-05-17 13:55:00,regular fries,1,3.0,Deliveroo,2.25
+TXN-1001,2026-05-14 11:35:26,regular fries,3,9.0,Till,8.82
+TXN-1002,2026-04-24 23:20:45,gourmet burger,1,8.5,Till,8.33
+TXN-1003,2026-04-29 16:09:51,regular fries,1,3.0,Till,2.94
+TXN-1004,2026-05-20 22:42:37,chocolate milkshake,3,13.5,Till,13.23
+TXN-1005,2026-05-12 12:32:25,sweet potato fries,3,12.0,Till,11.76
+TXN-1006,2026-05-06 20:31:29,regular fries,1,3.0,Till,2.94
+TXN-1007,2026-05-20 13:25:58,gourmet burger,1,8.5,Till,8.33
+TXN-1008,2026-05-14 20:32:49,cheeseburger,3,28.5,Till,27.93
+TXN-1009,2026-05-22 23:59:33,chocolate milkshake,2,9.0,Till,8.82
+TXN-1010,2026-05-07 15:17:05,soft drink,3,7.5,Till,7.35
+TXN-1011,2026-05-07 18:39:35,vegan burger,2,18.0,Till,17.64
+TXN-1012,2026-05-01 21:32:12,sweet potato fries,1,4.0,Till,3.92
+TXN-1013,2026-05-20 17:58:17,cheeseburger,3,28.5,Till,27.93
+TXN-1014,2026-05-06 21:20:28,chocolate milkshake,3,13.5,Till,13.23
+TXN-1015,2026-04-28 23:32:45,gourmet burger,3,25.5,Till,24.99
+TXN-1016,2026-05-09 17:46:29,regular fries,3,9.0,Till,8.82
+TXN-1017,2026-04-26 20:16:00,sweet potato fries,1,4.0,Till,3.92
+TXN-1018,2026-05-09 12:16:12,chocolate milkshake,3,13.5,Till,13.23
+TXN-1019,2026-04-22 12:54:55,soft drink,2,5.0,Till,4.9
+TXN-1020,2026-05-20 21:59:52,gourmet burger,1,8.5,Till,8.33
+TXN-1021,2026-04-22 12:24:57,chocolate milkshake,3,13.5,Till,13.23
+TXN-1022,2026-04-22 14:14:29,chocolate milkshake,3,13.5,Till,13.23
+TXN-1023,2026-05-16 13:40:20,soft drink,1,2.5,Till,2.45
+TXN-1024,2026-05-15 22:56:00,soft drink,2,5.0,Till,4.9
+TXN-1025,2026-04-23 22:36:15,vegan burger,1,9.0,Till,8.82
+TXN-1026,2026-05-02 14:10:39,vegan burger,3,27.0,Till,26.46
+TXN-1027,2026-05-15 22:40:15,sweet potato fries,3,12.0,Till,11.76
+TXN-1028,2026-04-27 11:53:05,chocolate milkshake,1,4.5,Till,4.41
+TXN-1029,2026-04-29 18:40:37,vegan burger,2,18.0,Till,17.64
+TXN-1030,2026-05-21 16:06:42,vegan burger,3,27.0,Till,26.46
+TXN-1031,2026-05-10 20:35:03,soft drink,2,5.0,Till,4.9
+TXN-1032,2026-05-22 17:16:27,sweet potato fries,2,8.0,Till,7.84
+TXN-1033,2026-05-22 17:49:44,soft drink,1,2.5,Till,2.45
+TXN-1034,2026-04-29 22:04:43,gourmet burger,2,17.0,Till,16.66
+TXN-1035,2026-04-25 23:58:36,regular fries,3,9.0,Till,8.82
+TXN-1036,2026-04-22 14:11:23,soft drink,3,7.5,Till,7.35
+TXN-1037,2026-05-08 11:22:02,soft drink,2,5.0,Till,4.9
+TXN-1038,2026-05-03 12:08:51,soft drink,2,5.0,Till,4.9
+TXN-1039,2026-05-07 15:04:26,cheeseburger,3,28.5,Till,27.93
+TXN-1040,2026-05-14 19:49:22,chocolate milkshake,3,13.5,Till,13.23
+TXN-1041,2026-05-11 15:27:30,soft drink,2,5.0,Till,4.9
+TXN-1042,2026-05-01 11:43:10,soft drink,2,5.0,Till,4.9
+TXN-1043,2026-05-14 14:55:16,regular fries,3,9.0,Till,8.82
+TXN-1044,2026-05-17 13:47:53,cheeseburger,2,19.0,Till,18.62
+TXN-1045,2026-05-11 17:24:48,regular fries,3,9.0,Till,8.82
+TXN-1046,2026-05-21 18:49:55,vegan burger,1,9.0,Till,8.82
+TXN-1047,2026-04-28 16:45:19,regular fries,1,3.0,Till,2.94
+TXN-1048,2026-05-12 15:07:10,regular fries,1,3.0,Till,2.94
+TXN-1049,2026-05-13 22:57:15,regular fries,3,9.0,Till,8.82
+TXN-1050,2026-05-12 17:12:50,vegan burger,1,9.0,Till,8.82
+TXN-1051,2026-05-19 23:09:04,vegan burger,3,27.0,Till,26.46
+TXN-1052,2026-05-09 17:09:10,vegan burger,3,27.0,Till,26.46
+TXN-1053,2026-05-01 18:40:31,cheeseburger,1,9.5,Till,9.31
+TXN-1054,2026-05-17 19:22:25,vegan burger,3,27.0,Till,26.46
+TXN-1055,2026-04-25 15:55:34,soft drink,1,2.5,Till,2.45
+TXN-1056,2026-05-16 20:14:57,chocolate milkshake,3,13.5,Till,13.23
+TXN-1057,2026-05-04 23:18:37,regular fries,2,6.0,Till,5.88
+TXN-1058,2026-05-08 15:37:31,soft drink,1,2.5,Till,2.45
+TXN-1059,2026-04-26 18:16:18,chocolate milkshake,1,4.5,Till,4.41
+TXN-1060,2026-05-04 18:55:53,vegan burger,1,9.0,Till,8.82
+TXN-1061,2026-05-10 20:54:48,gourmet burger,3,25.5,Till,24.99
+TXN-1062,2026-04-24 20:15:53,gourmet burger,1,8.5,Till,8.33
+TXN-1063,2026-04-28 14:02:06,sweet potato fries,3,12.0,Till,11.76
+TXN-1064,2026-04-23 12:17:46,chocolate milkshake,1,4.5,Till,4.41
+TXN-1065,2026-05-01 14:51:38,chocolate milkshake,1,4.5,Till,4.41
+TXN-1066,2026-04-27 19:18:45,gourmet burger,3,25.5,Till,24.99
+TXN-1067,2026-05-03 23:11:56,sweet potato fries,1,4.0,Till,3.92
+TXN-1068,2026-04-26 19:44:16,chocolate milkshake,1,4.5,Till,4.41
+TXN-1069,2026-05-12 16:37:35,cheeseburger,3,28.5,Till,27.93
+TXN-1070,2026-05-04 13:28:09,regular fries,2,6.0,Till,5.88
+TXN-1071,2026-05-18 21:59:57,sweet potato fries,2,8.0,Till,7.84
+TXN-1072,2026-05-16 11:53:45,soft drink,3,7.5,Till,7.35
+TXN-1073,2026-04-22 22:34:43,cheeseburger,2,19.0,Till,18.62
+TXN-1074,2026-05-14 21:29:43,regular fries,3,9.0,Till,8.82
+TXN-1075,2026-05-21 18:19:06,chocolate milkshake,3,13.5,Till,13.23
+TXN-1076,2026-05-09 22:47:21,chocolate milkshake,3,13.5,Till,13.23
+TXN-1077,2026-05-15 16:24:39,chocolate milkshake,3,13.5,Till,13.23
+TXN-1078,2026-05-06 20:01:20,vegan burger,3,27.0,Till,26.46
+TXN-1079,2026-04-26 19:27:36,cheeseburger,1,9.5,Till,9.31
+TXN-1080,2026-04-27 17:45:12,gourmet burger,3,25.5,Till,24.99
+TXN-1081,2026-05-10 12:59:12,gourmet burger,1,8.5,Till,8.33
+TXN-1082,2026-04-26 18:28:07,vegan burger,3,27.0,Till,26.46
+TXN-1083,2026-05-12 20:01:47,gourmet burger,2,17.0,Till,16.66
+TXN-1084,2026-05-09 12:50:23,vegan burger,2,18.0,Till,17.64
+TXN-1085,2026-05-16 16:35:52,vegan burger,1,9.0,Till,8.82
+TXN-1086,2026-05-17 22:25:56,soft drink,1,2.5,Till,2.45
+TXN-1087,2026-04-26 18:32:26,gourmet burger,1,8.5,Till,8.33
+TXN-1088,2026-05-12 18:01:41,vegan burger,2,18.0,Till,17.64
+TXN-1089,2026-04-24 13:28:42,chocolate milkshake,3,13.5,Till,13.23
+TXN-1090,2026-05-14 20:58:34,sweet potato fries,3,12.0,Till,11.76
+TXN-1091,2026-05-02 13:32:10,vegan burger,1,9.0,Till,8.82
+TXN-1092,2026-05-11 17:17:12,vegan burger,1,9.0,Till,8.82
+TXN-1093,2026-05-14 13:05:45,chocolate milkshake,1,4.5,Till,4.41
+TXN-1094,2026-05-22 16:58:40,cheeseburger,3,28.5,Till,27.93
+TXN-1095,2026-05-16 18:56:19,soft drink,3,7.5,Till,7.35
+TXN-1096,2026-05-14 20:12:39,sweet potato fries,3,12.0,Till,11.76
+TXN-1097,2026-05-07 21:29:16,gourmet burger,1,8.5,Till,8.33
+TXN-1098,2026-05-04 12:28:35,sweet potato fries,3,12.0,Till,11.76
+TXN-1099,2026-05-06 11:26:22,regular fries,2,6.0,Till,5.88
+TXN-1100,2026-05-22 22:16:47,gourmet burger,1,8.5,Till,8.33
+UBR-503718,2026-05-02 23:02:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-662335,2026-05-07 16:51:00,chocolate milkshake,1,4.5,Uber Eats,3.15
+UBR-494939,2026-04-28 16:21:00,soft drink,1,2.5,Uber Eats,1.75
+UBR-326714,2026-05-20 22:42:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-413159,2026-04-25 17:47:00,sweet potato fries,1,4.0,Uber Eats,2.8
+UBR-441740,2026-05-12 13:33:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-879085,2026-05-05 15:02:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-112170,2026-05-19 21:36:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-571696,2026-05-14 14:07:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-543808,2026-05-01 18:31:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-359227,2026-05-10 19:27:00,vegan burger,2,18.0,Uber Eats,12.6
+UBR-907533,2026-05-22 19:06:00,sweet potato fries,2,8.0,Uber Eats,5.6
+UBR-388561,2026-05-07 21:48:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-689400,2026-04-27 19:37:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-916680,2026-04-22 18:57:00,sweet potato fries,1,4.0,Uber Eats,2.8
+UBR-777835,2026-05-13 20:06:00,soft drink,1,2.5,Uber Eats,1.75
+UBR-967126,2026-05-04 14:22:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-361932,2026-05-02 21:48:00,chocolate milkshake,2,9.0,Uber Eats,6.3
+UBR-553159,2026-04-22 13:26:00,chocolate milkshake,2,9.0,Uber Eats,6.3
+UBR-148756,2026-05-01 23:52:00,soft drink,1,2.5,Uber Eats,1.75
+UBR-866522,2026-05-12 14:57:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-489062,2026-05-02 17:26:00,cheeseburger,1,9.5,Uber Eats,6.6499999999999995
+UBR-651883,2026-05-16 22:18:00,vegan burger,2,18.0,Uber Eats,12.6
+UBR-397801,2026-04-26 19:30:00,vegan burger,1,9.0,Uber Eats,6.3
+UBR-532158,2026-05-22 18:16:00,sweet potato fries,2,8.0,Uber Eats,5.6
+UBR-738193,2026-04-26 18:16:00,sweet potato fries,2,8.0,Uber Eats,5.6
+UBR-104090,2026-05-21 13:30:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-496972,2026-04-29 21:47:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-895014,2026-04-24 15:45:00,chocolate milkshake,1,4.5,Uber Eats,3.15
+UBR-426534,2026-05-18 22:13:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-502480,2026-05-09 15:02:00,sweet potato fries,2,8.0,Uber Eats,5.6
+UBR-634567,2026-05-21 13:33:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-674114,2026-05-02 22:09:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-209941,2026-05-13 17:43:00,vegan burger,1,9.0,Uber Eats,6.3
+UBR-349898,2026-05-16 11:14:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-728127,2026-05-01 12:51:00,chocolate milkshake,2,9.0,Uber Eats,6.3
+UBR-395753,2026-05-17 14:22:00,sweet potato fries,1,4.0,Uber Eats,2.8
+UBR-913978,2026-05-15 23:11:00,cheeseburger,1,9.5,Uber Eats,6.6499999999999995
+UBR-267818,2026-05-21 14:08:00,chocolate milkshake,1,4.5,Uber Eats,3.15
+UBR-273962,2026-05-12 12:04:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-644953,2026-05-02 19:44:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-832051,2026-05-17 20:25:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-362500,2026-04-25 14:20:00,sweet potato fries,1,4.0,Uber Eats,2.8
+UBR-612230,2026-05-21 13:53:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-932300,2026-04-28 18:32:00,chocolate milkshake,1,4.5,Uber Eats,3.15
+UBR-496056,2026-04-24 11:20:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-975264,2026-05-10 14:06:00,regular fries,2,6.0,Uber Eats,4.199999999999999
+UBR-581156,2026-05-17 17:18:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-541768,2026-05-21 22:14:00,vegan burger,2,18.0,Uber Eats,12.6
+UBR-764121,2026-05-21 17:04:00,soft drink,1,2.5,Uber Eats,1.75
+UBR-414788,2026-05-16 18:44:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-603535,2026-04-29 15:03:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-291063,2026-04-26 15:13:00,soft drink,1,2.5,Uber Eats,1.75
+UBR-333834,2026-04-22 14:06:00,vegan burger,1,9.0,Uber Eats,6.3
+UBR-270040,2026-05-07 13:59:00,sweet potato fries,1,4.0,Uber Eats,2.8
+UBR-675471,2026-05-01 17:47:00,sweet potato fries,2,8.0,Uber Eats,5.6
+UBR-870967,2026-05-04 16:30:00,chocolate milkshake,2,9.0,Uber Eats,6.3
+UBR-753767,2026-05-18 22:12:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-427727,2026-05-02 23:20:00,regular fries,2,6.0,Uber Eats,4.199999999999999
+UBR-381132,2026-04-23 17:10:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-544534,2026-04-25 14:46:00,vegan burger,2,18.0,Uber Eats,12.6
+UBR-733062,2026-05-03 22:16:00,soft drink,1,2.5,Uber Eats,1.75
+UBR-301889,2026-04-24 15:36:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-922266,2026-04-24 23:56:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-838075,2026-05-14 13:53:00,gourmet burger,2,17.0,Uber Eats,11.899999999999999
+UBR-943936,2026-05-06 23:54:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-177153,2026-05-14 14:23:00,regular fries,2,6.0,Uber Eats,4.199999999999999
+UBR-894435,2026-04-25 23:39:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-253349,2026-05-04 15:07:00,chocolate milkshake,1,4.5,Uber Eats,3.15
+UBR-394826,2026-05-09 16:54:00,vegan burger,2,18.0,Uber Eats,12.6
+UBR-353035,2026-05-12 18:48:00,sweet potato fries,1,4.0,Uber Eats,2.8
+UBR-732694,2026-05-18 13:38:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-107611,2026-05-18 15:36:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-519755,2026-05-10 20:17:00,regular fries,2,6.0,Uber Eats,4.199999999999999
+UBR-156085,2026-04-30 18:59:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-387303,2026-04-24 21:02:00,vegan burger,2,18.0,Uber Eats,12.6
+UBR-868567,2026-05-10 20:06:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-432781,2026-05-12 19:26:00,regular fries,2,6.0,Uber Eats,4.199999999999999
+UBR-731322,2026-05-22 17:07:00,sweet potato fries,2,8.0,Uber Eats,5.6
+UBR-457372,2026-05-14 12:52:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-306291,2026-05-18 17:27:00,chocolate milkshake,1,4.5,Uber Eats,3.15
+UBR-774427,2026-04-27 11:26:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-542902,2026-05-20 21:04:00,chocolate milkshake,2,9.0,Uber Eats,6.3
+UBR-238487,2026-05-09 17:05:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-848304,2026-05-22 21:28:00,regular fries,1,3.0,Uber Eats,2.0999999999999996
+UBR-846935,2026-05-19 16:12:00,soft drink,1,2.5,Uber Eats,1.75
+UBR-572417,2026-05-06 19:14:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-815019,2026-05-16 11:47:00,gourmet burger,1,8.5,Uber Eats,5.949999999999999
+UBR-633529,2026-05-19 23:09:00,regular fries,2,6.0,Uber Eats,4.199999999999999
+UBR-472030,2026-04-26 19:14:00,vegan burger,1,9.0,Uber Eats,6.3
+UBR-464732,2026-04-30 12:29:00,cheeseburger,1,9.5,Uber Eats,6.6499999999999995
+UBR-372825,2026-04-28 17:28:00,chocolate milkshake,2,9.0,Uber Eats,6.3
+UBR-998587,2026-05-19 19:17:00,sweet potato fries,2,8.0,Uber Eats,5.6
+UBR-432868,2026-05-02 22:12:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-478063,2026-05-14 15:48:00,cheeseburger,1,9.5,Uber Eats,6.6499999999999995
+UBR-448999,2026-05-11 23:48:00,chocolate milkshake,2,9.0,Uber Eats,6.3
+UBR-927825,2026-05-17 19:06:00,soft drink,2,5.0,Uber Eats,3.5
+UBR-724457,2026-05-19 21:55:00,cheeseburger,2,19.0,Uber Eats,13.299999999999999
+UBR-469036,2026-04-23 14:11:00,cheeseburger,1,9.5,Uber Eats,6.6499999999999995
+UBR-971117,2026-05-11 22:32:00,vegan burger,1,9.0,Uber Eats,6.3
