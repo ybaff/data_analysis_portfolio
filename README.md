@@ -31,6 +31,6 @@ I specialise in identifying **hidden revenue leaks** and **customer churn patter
 ## My contacts
 I’m open to discussing data driven growth or new project opportunities.
 
-* **LinkedIn:** [Yaw Baffoe](www.linkedin.com/in/yaw-opoku-mensah-baffoe)
+* **LinkedIn:** www.linkedin.com/in/yaw-opoku-mensah-baffoe
 * **Email Address:** yaw.m.baffoe@gmail.com
 * * **Latest Dashboard** https://datastudio.google.com/reporting/a69287fb-e1cd-4da5-84cd-1fc052397df5
